@@ -1,7 +1,9 @@
 Repository is not finished, use it on your own risk!
 
 This repo can be used as guide, either for complete beginner or user who is looking to improve their server.
-In this guide I've covrered:
+In this guide, firstly, I've covrered some things that are must when we talk about stable, secure and reliable home server.
+
+The things that I have covered are:
 
   1. Basic things to do after installing ubuntu server, setting it as a good base for future work
   2. Formatting disks, putting a filesystem on them and mounting them in a folder so they are accessible automatticaly on startup
